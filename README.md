@@ -54,3 +54,7 @@ Copy `skills/reader-side/` to the appropriate personal or project directory:
 You can ask the agent explicitly:
 
 > Use reader-side to review this PR description for details its reviewers do not need.
+
+## License
+
+[CC0 1.0 Universal](LICENSE)

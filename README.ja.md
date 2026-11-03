@@ -54,3 +54,7 @@ codex plugin add reader-side@reader-side
 明示的に指定する場合は、次のように依頼します。
 
 > reader-side を使って、このPR本文にレビュアーが必要としない情報が含まれていないか確認してください。
+
+## ライセンス
+
+[CC0 1.0 Universal](LICENSE)

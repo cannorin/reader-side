@@ -8,6 +8,7 @@
   },
   "homepage": "https://github.com/cannorin/reader-side",
   "repository": "https://github.com/cannorin/reader-side",
+  "license": "CC0-1.0",
   "skills": "./skills/",
   "interface": {
     "displayName": "Reader Side",
