@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reader Side"
+  short_description: "Keep writing focused on what readers need"
+  default_prompt: "Use $reader-side to revise this text for its actual readers."
