@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "reader-side",
+  "description": "Audience-aware writing skills for coding agents.",
+  "owner": {
+    "name": "cannorin",
+    "url": "https://github.com/cannorin"
+  },
+  "plugins": [
+    {
+      "name": "reader-side",
+      "description": "Keep writing focused on what its actual readers need.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

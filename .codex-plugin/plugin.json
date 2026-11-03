@@ -1,0 +1,25 @@
+{
+  "name": "reader-side",
+  "version": "0.1.0",
+  "description": "Keep writing focused on what its actual readers need.",
+  "author": {
+    "name": "cannorin",
+    "url": "https://github.com/cannorin"
+  },
+  "homepage": "https://github.com/cannorin/reader-side",
+  "repository": "https://github.com/cannorin/reader-side",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Reader Side",
+    "shortDescription": "Keep writing focused on what readers need",
+    "longDescription": "Exclude author-side process and implementation details unless they help the actual reader understand, decide, or act.",
+    "developerName": "cannorin",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/cannorin/reader-side",
+    "defaultPrompt": [
+      "Use Reader Side to revise this text for its actual readers.",
+      "Review this draft for details its readers do not need."
+    ]
+  }
+}

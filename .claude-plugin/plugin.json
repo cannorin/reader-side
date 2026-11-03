@@ -1,0 +1,11 @@
+{
+  "name": "reader-side",
+  "version": "0.1.0",
+  "description": "Keep writing focused on what its actual readers need.",
+  "author": {
+    "name": "cannorin",
+    "url": "https://github.com/cannorin"
+  },
+  "homepage": "https://github.com/cannorin/reader-side",
+  "repository": "https://github.com/cannorin/reader-side"
+}
