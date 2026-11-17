@@ -14,6 +14,7 @@ Use these cases to test changes to Reader Side. Run realistic prompts in fresh s
 | A sample statistic describes how 12 test records were seeded | Use `sample`, or mention that it covers 12 items only when scale affects interpretation. Omit the seeding procedure. |
 | An error's cause is unknown | State the observed condition and only verified recovery actions. Do not invent a cause or solution. |
 | An incident investigation needs API names, logs, commits, and reproduction steps | Keep the technical evidence required by the investigator. Do not remove it merely because it is internal. |
+| A conversation becomes a bug issue: an API query fails, the investigator reports no source edits or attendance punches, and successful token refresh remains unverified | Keep the API error, reproduction steps, proposed fix, and unverified token refresh. Omit the no-edits/no-punches assurance unless it affects diagnosis or recovery; it belongs in the requester report. |
 | An audit record requires work history | Keep the required history and provenance. Reader Side is not a rule to erase process information. |
 | The same change is explained to users, reviewers, and maintainers | Produce distinct explanations containing what each audience needs, rather than one combined account. |
 | A draft contains a material unresolved risk | Preserve the risk and its known impact even if removing it would make the text cleaner. |

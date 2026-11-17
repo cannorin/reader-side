@@ -19,7 +19,7 @@ The reader may be an end user, reviewer, maintainer, investigator, auditor, or t
    - Is this the right surface for it?
 4. Organize around the final state: the relevant problem, resulting behavior, supporting evidence, remaining limits, and any action the reader must take. Do not transcribe the work chronology.
 5. Express internal causes in terms of their reader-visible effect or useful response. Keep mechanisms when the reader needs them to verify, troubleshoot, maintain, or audit the result.
-6. Put diagnostics, audit history, and requester-facing work reports in their appropriate outputs instead of forcing them into user-facing copy. Do not save or publish them without the required authorization.
+6. Put diagnostics, audit history, and requester-facing work reports in their appropriate outputs instead of forcing them into user-facing copy. When turning a conversation into an issue, PR, or other document for a different audience, reassess each detail: assurances about what you did or did not do belong in the requester report unless they affect the document reader's decisions. Keep verification limits that affect confidence in the findings or proposed fix. Do not save or publish these outputs without the required authorization.
 
 Do not optimize for brevity by itself. A necessary explanation can be long; an unnecessary sentence is still unnecessary when short.
 
